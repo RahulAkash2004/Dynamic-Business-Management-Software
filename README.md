@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue)
+![Tech Stack](https://img.shields.io/badge/Tech-Electron.js%20%7C%20Node.js%20%7C%20Python-orange)
+
+
 # 🧾 Dynamic Business Management Software
 
 A complete, on-premise business management solution designed for manufacturing and service businesses. The solution offers real-time inventory tracking, GST supported billing payrollm and ledger management, artificial intelligence(Artificial Intelligence) powered analytics and strong offline data sync with auto backup and recovery.
