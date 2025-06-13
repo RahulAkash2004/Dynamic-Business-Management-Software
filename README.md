@@ -69,7 +69,7 @@ A complete, on-premise business management solution designed for manufacturing
 [SQLite DB]
     ↓
 [Python ML Modules] → Analytics & Reports
-
+---
 # ⚙️ Setup & Installation
 
 ## 💻 Prerequisites
@@ -105,7 +105,7 @@ If you'd like to run the Python-based AI analytics (e.g., for sales trends or st
 ```bash
 cd ai-modules
 python run_analysis.py
-
+---
 ## 🧠 AI Modules
 
 - Uses cleaned business data (billing, stock, customer purchases)
