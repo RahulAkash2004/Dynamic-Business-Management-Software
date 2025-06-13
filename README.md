@@ -71,61 +71,81 @@ A complete, on-premise business management solution designed for manufacturing a
 [Python ML Modules] → Analytics & Reports
 
 
+---
 
-⚙️ Setup & Installation
-💻 Prerequisites
-Node.js v16+
+## ⚙️ Setup & Installation
 
-Python 3.10+
+### 💻 Prerequisites
 
-Git
+- Node.js v16+
+- Python 3.10+
+- Git
 
-🔽 Clone Repository
-bash
-git clone https://github.com/yourusername/business-management-software.git
-cd business-management-software
-📦 Install Dependencies
-bash
+
+### 📦 Install Dependencies
+
+To install all required Node.js packages, run:
+
+```
 npm install
-▶️ Run Application
-bash
+
+
+### ▶️ Run Application
+
+To start the Electron-based desktop application:
+
+```
 npm start
-🧠 AI Modules (Optional)
-bash
+
+
+### 🧠 AI Modules (Optional)
+
+If you'd like to run the Python-based AI analytics (e.g., for sales trends or stock predictions), navigate to the AI module directory and run:
+
+```
 cd ai-modules
 python run_analysis.py
-📷 Screenshots
-Screenshots will be added soon
 
-🧠 AI Modules
-Uses cleaned business data (billing, stock, customer purchases)
+---
 
-Predicts low stock trends and monthly revenue estimates
+## 🧠 AI Modules
 
-Generates visual analytics using Matplotlib and Python libraries
+- Uses cleaned business data (billing, stock, customer purchases)
+- Predicts low stock trends and monthly revenue estimates
+- Generates visual analytics using Matplotlib and Python libraries
+- Helps businesses make data-driven decisions through visual dashboards
 
-Helps businesses make data-driven decisions through visual dashboards
+---
 
-🚧 Future Enhancements
-☁️ Cloud sync and multi-device access
+## 🚧 Future Enhancements
 
-🧑‍💼 Advanced payroll with tax & leave tracking
+- ☁️ Cloud sync and multi-device access
+- 🧑‍💼 Advanced payroll with tax & leave tracking
+- 🎛️ Graphical drag-and-drop dashboard interface
+- 📦 QR/barcode generation for inventory entries
+- 📲 Mobile companion app for quick access
 
-🎛️ Graphical drag-and-drop dashboard interface
+---
 
-📦 QR/barcode generation for inventory entries
+## 📅 Project Timeline
 
-📲 Mobile companion app for quick access
+- **Start Date:** March 2024  
+- **Status:** 🛠 Ongoing Development  
+- **Last Updated:** June 2025
 
-📅 Project Timeline
-Start Date: March 2024
+---
 
-Status: 🛠 Ongoing Development
+## 👤 Contributions
 
-Last Updated: June 2025
+👨‍💻 Developed and maintained by **Rahul Akash**  
+📧 Contact: [rahulsaravanan71@gmail.com](mailto:rahulsaravanan71@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rahul-akash-494103212)
 
-👤 Contributions
-👨‍💻 Developed and maintained by Rahul Akash
-📧 Contact: rahulsaravanan71@gmail.com
-🔗 LinkedIn Profile
+---
 
+## 📄 License
+
+This project is open-source and available under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full details.
+
+---
