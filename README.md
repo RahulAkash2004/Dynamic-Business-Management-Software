@@ -69,3 +69,72 @@ A complete, on-premise business management solution designed for manufacturing
 [SQLite DB]
     ↓
 [Python ML Modules] → Analytics & Reports
+
+# ⚙️ Setup & Installation
+
+## 💻 Prerequisites
+
+- Node.js v16+
+- Python 3.10+
+- Git
+
+## 🔽 Clone Repository
+
+```bash
+git clone https://github.com/yourusername/business-management-software.git
+cd business-management-software
+
+## 📦 Install Dependencies
+
+To install all required Node.js packages, run:
+
+```bash
+npm install
+
+## ▶️ Run Application
+
+To start the Electron-based desktop application:
+
+```bash
+npm start
+
+## 🧠 AI Modules (Optional)
+
+If you'd like to run the Python-based AI analytics (e.g., for sales trends or stock predictions), navigate to the AI module directory and run:
+
+```bash
+cd ai-modules
+python run_analysis.py
+
+## 🧠 AI Modules
+
+- Uses cleaned business data (billing, stock, customer purchases)
+- Predicts low stock trends and monthly revenue estimates
+- Generates visual analytics using Matplotlib and Python libraries
+- Helps businesses make data-driven decisions through visual dashboards
+
+---
+
+## 🚧 Future Enhancements
+
+- ☁️ Cloud sync and multi-device access
+- 🧑‍💼 Advanced payroll with tax & leave tracking
+- 🎛️ Graphical drag-and-drop dashboard interface
+- 📦 QR/barcode generation for inventory entries
+- 📲 Mobile companion app for quick access
+
+---
+
+## 📅 Project Timeline
+
+- **Start Date:** March 2024  
+- **Status:** 🛠 Ongoing Development  
+- **Last Updated:** June 2025
+
+---
+
+## 👤 Contributions
+
+👨‍💻 Developed and maintained by **Rahul Akash**  
+📧 Contact: [rahulsaravanan71@gmail.com](mailto:rahulsaravanan71@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rahul-akash-494103212)
