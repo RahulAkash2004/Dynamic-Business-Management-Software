@@ -95,6 +95,7 @@ To install all required Node.js packages, run:
 npm install
 
 
+
 ### ▶️ Run Application
 
 To start the Electron-based desktop application:
